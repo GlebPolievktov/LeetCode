@@ -23,13 +23,13 @@ None in Pandas).
 
 Input: 
 Employee table:
-+----+--------+
+
 | id | salary |
-+----+--------+
+|----+--------|
 | 1  | 100    |
 | 2  | 200    |
 | 3  | 300    |
-+----+--------+
+
 Output: 
 +---------------------+
 | SecondHighestSalary |
