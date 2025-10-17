@@ -42,7 +42,7 @@ Input:
 Employee table:
 
 | id | salary |
-|----+--------|
+|----|--------|
 | 1  | 100    |
 
 Output: 
